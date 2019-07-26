@@ -1,11 +1,11 @@
-num = int(input())
+p = int(input())
 sum = 0
-temp = num
+temp = p
 while temp > 0:
-   digit = temp % 10
-   sum += digit ** 3
+   r = temp % 10
+   sum += r ** 3
    temp //= 10
-if num == sum:
+if p == sum:
    print("yes")
 else:
    print("no")
