@@ -6,7 +6,7 @@ for i in range(a,b+ 1):
  
   
    t = i
-   while t> 0:
+   while t> 0 and t!=a and t!=b:
        d = t % 10
        sum += d ** 3
        t//= 10
