@@ -12,4 +12,4 @@ for i in range(a,b+ 1):
        t//= 10
  
    if i == sum:
-       print(i)
+       print(i,end=' ')
