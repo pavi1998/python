@@ -1,0 +1,9 @@
+a=int(input())
+m=str(a)
+c=len(m)
+sum=0
+while(a>0):
+  r=a%10
+  sum=sum+r**c
+  a=a//10
+print(sum)  
