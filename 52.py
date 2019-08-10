@@ -1,24 +1,24 @@
-x=int(input())
-if x==1:
+y=int(input())
+if y==1:
     print("One")
-elif x==2:
+elif y==2:
     print("Two")
-elif x==3:
+elif y==3:
     print("Three")
-elif x==4:
+elif y==4:
     print("Four")
-elif x==5:
+elif y==5:
     print("Five")
-elif x==6:
+elif y==6:
     print("Six")
-elif x==7:
+elif y==7:
     print("Seven")
-elif x==8:
+elif y==8:
     print("Eignt")
-elif x==9:
+elif y==9:
     print("Nine")
-elif x==10:
+elif y==10:
     print("Ten")
 else:
     0
-© 2019 GitHub, Inc.
+
