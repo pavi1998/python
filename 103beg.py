@@ -1,2 +1,3 @@
-p=input()
-print(p.title())
+u=input()
+c=u.title()
+print(c)
