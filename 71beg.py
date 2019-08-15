@@ -11,6 +11,6 @@ s =str(input())
 a = isPalindrome(s) 
   
 if a == 1: 
-    print("Yes") 
+    print("yes") 
 else: 
-    print("No") 
+    print("no") 
